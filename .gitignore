@@ -1,0 +1,25 @@
+*.class
+
+#package files
+*.war
+*.ear
+
+#maven
+target/
+
+#eclipse
+.settings/
+.project
+.classpath
+
+#temp
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#System
+.DS_Store
+Thumbs.db
+
